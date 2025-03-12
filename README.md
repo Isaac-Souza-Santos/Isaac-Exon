@@ -15,4 +15,4 @@ Atuo com **React, Next.js e TypeScript**, desenvolvendo interfaces **responsivas
 
 💬 Vamos conectar!  
 📧 **Email:** souza-sjc@hotmail.com 
-💼 [LinkedIn](https://www.linkedin.com/in/seu-perfil) |  
+💼 [LinkedIn](https://www.linkedin.com/in/seu-perfil) 
