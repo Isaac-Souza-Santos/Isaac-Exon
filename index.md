@@ -2,7 +2,6 @@
 layout: default
 title: Isaac Souza - Front-End Developer
 permalink: /
-redirect_to: /Isaac-Exon/
 ---
 
 # Isaac Souza - Front-End Developer

@@ -5,7 +5,7 @@ author: Isaac Souza
 email: souza-sjc@hotmail.com
 
 # Jekyll configuration
-baseurl: "/Isaac-Exon"
+baseurl: ""
 url: "https://isaac-souza-santos.github.io"
 
 # Build settings
