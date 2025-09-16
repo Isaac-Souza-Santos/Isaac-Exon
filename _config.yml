@@ -18,6 +18,8 @@ exclude:
   - README.md
   - .gitignore
   - .github/
+  - _layouts/
+  - _config.yml
 
 # Include files
 include:
@@ -25,9 +27,3 @@ include:
   - _headers
   - google6ea14f55b40fafcd.html
   - app-ads.txt
-
-# Plugins
-plugins:
-  - jekyll-feed
-  - jekyll-sitemap
-  - jekyll-seo-tag
