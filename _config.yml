@@ -1,0 +1,55 @@
+# GitHub Pages configuration
+title: Isaac Souza - Front-End Developer
+description: Desenvolvedor Front-End apaixonado por criar experiências digitais modernas
+author: Isaac Souza
+email: souza-sjc@hotmail.com
+
+# Jekyll configuration
+baseurl: "/Isaac-Exon"
+url: "https://isaac-souza-santos.github.io"
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+theme: jekyll-theme-primer
+
+# Exclude files from processing
+exclude:
+  - README.md
+  - .gitignore
+  - .github/
+
+# Include files
+include:
+  - _redirects
+  - _headers
+
+# Plugins
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag
+
+# Collections
+collections:
+  projects:
+    output: true
+    permalink: /:collection/:name/
+
+# Defaults
+defaults:
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "default"
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+  - scope:
+      path: ""
+      type: "projects"
+    values:
+      layout: "project"
